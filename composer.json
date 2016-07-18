@@ -1,5 +1,5 @@
 {
-  "name": "derhasi/toggl2redmine",
+  "name": "radimklaska/toggl2redmine",
   "description": "Command line tool to sync toggl time entries to redmine",
   "require": {
     "php": ">=5.4.0",
